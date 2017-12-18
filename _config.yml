@@ -30,3 +30,4 @@ theme: minima
 gems: [bootstrap, autoprefixer-rails, jekyll-assets]
 sass:
     sass_dir: _sass
+github: [metadata]
